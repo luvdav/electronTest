@@ -1,2 +1,2 @@
 # electronTest
-Trying out electron
+Trying out electron with the snippet provided on its proprietary website
